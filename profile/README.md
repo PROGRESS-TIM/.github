@@ -1,1 +1,22 @@
-# .github
+PROGRESS TIM
+Добро пожаловать в PROGRESS TIM – организацию, нацеленную на разработку open source проектов, создание библиотек для различных систем на множестве языков программирования, а также на проведение экспериментов и исследований в области IT.
+
+Наша миссия
+Мы стремимся к развитию открытого программного обеспечения, делясь своими знаниями и опытом с сообществом. В PROGRESS TIM мы:
+
+Разрабатываем: создаем и поддерживаем open source проекты, доступные для всех.
+Исследуем: изучаем новые технологии и подходы, чтобы находить лучшие решения.
+Делимся: предоставляем библиотеки и инструменты для различных языков программирования и платформ.
+Что вы найдете в наших репозиториях?
+Полноценные open source проекты, готовые для использования и модификации.
+Библиотеки и инструменты для различных языков и платформ.
+Экспериментальные проекты и исследования, направленные на изучение новых технологий и подходов.
+
+Статистика
+Мы ценим ваше внимание к нашим проектам и стараемся отслеживать наш прогресс. Вот несколько статистических данных о нашей организации:
+![GitHub Stars](https://img.shields.io/github/stars/PROGRESS-TIM?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/PROGRESS-TIM?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/PROGRESS-TIM?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/PROGRESS-TIM/REPO-NAME)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/PROGRESS-TIM/REPO-NAME)
+![Website Visits](https://visitor-badge.glitch.me/badge?page_id=PROGRESS-TIM.PROGRESS-TIM)
