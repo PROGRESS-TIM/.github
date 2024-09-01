@@ -17,4 +17,3 @@ PROGRESS TIM
 
 ![GitHub Stars](https://img.shields.io/github/stars/PROGRESS-TIM?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/PROGRESS-TIM?style=social)
-![Visitor Count](https://profile-counter.glitch.me/PROGRESS-TIM/count.svg)
